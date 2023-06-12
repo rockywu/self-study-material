@@ -8,6 +8,8 @@
  * test.addImpl('number', 'boolean', (num, bool) => {
  *    console.log('2', num, bool)
  * })
+ * test(18, 'rocky');
+ * test(18, true);
  */
 function createOverload() {
     const callMap = new Map();
