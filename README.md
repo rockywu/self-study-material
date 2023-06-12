@@ -2,6 +2,10 @@
 
 联系邮箱: <wjl19890427@hotmail.com>
 
+### JS函数片段
+
+[实现JS函数重载](./snippets/createOverload.js)
+
 ### 移动端性能优化
 
 [wap性能优化策略](./移动端性能优化)
